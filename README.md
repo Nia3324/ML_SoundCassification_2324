@@ -2,9 +2,9 @@
 
 ## Authorship
 
-- **Authors:** Antónia Brito, António Cardoso, Pedro Sousa
+- **Authors:** [Antónia Brito](https://github.com/Nia3324), [António Cardoso](https://github.com/ToniCardosooo), [Pedro Sousa](https://github.com/ToniCardosooo)
 - **University:** Faculty of Science from University of Porto
-- **Course:** Machine Learning II (CC3043)
+- **Course:** [Machine Learning II (CC3043)](https://sigarra.up.pt/fcup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529877)
 - **Date:** 05/12/2023
 
 ## Description
